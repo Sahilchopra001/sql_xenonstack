@@ -119,4 +119,8 @@ All commands are :
 	);
 
 
+ Now after creating table we have to import data into the tables
+ We'll do it by right clicking table and importing respective files
+ When all data is successfully imported then you can write answer queries On "create script" option or "PSQL" window tool
+
  
