@@ -31,10 +31,10 @@ courses.
 department name and the number of PhD students in the department.
 9. Print the names of students who are taking both a Computer Sciences course and a 
 Mathematics course.
-10.Print the age difference between the oldest and the youngest Computer Sciences major.
-11.For each department that has one or more majors with a GPA under 1.0, print the name of 
+10. Print the age difference between the oldest and the youngest Computer Sciences major.
+11. For each department that has one or more majors with a GPA under 1.0, print the name of 
 the department and the average GPA of its majors.
-12.Print the ids, names and GPAs of the students who are currently taking all the Civil 
+12. Print the ids, names and GPAs of the students who are currently taking all the Civil 
 Engineering courses.
 
 
