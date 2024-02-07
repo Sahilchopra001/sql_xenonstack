@@ -12,7 +12,7 @@ major (dname, sid)
 section (dname, cno, sectno, pname)
 enroll (sid, dname, cno, sectno, grade)
 
-
+#ER diagram Link : https://lucid.app/lucidchart/7dfeced7-6762-481b-8bec-e738ef71d018/edit?viewport_loc=83%2C-510%2C4561%2C1587%2C0_0&invitationId=inv_fbc32413-3964-48f0-be79-fd323396aa2e
 
 Queries to run are : 
 
